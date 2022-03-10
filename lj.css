@@ -1,0 +1,10 @@
+.grid_b {
+  display: grid;
+}
+
+.gird_i {
+  text-align: center;
+  background-color: red;
+  border: 1.5px dashed darkgray;
+  padding: 20px;
+}

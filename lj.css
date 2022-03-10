@@ -1,10 +1,9 @@
 .grid_b {
   display: grid;
+  grid-template-columns: 100px;
 }
 
-.gird_i {
-  text-align: center;
+.grid_i {
   background-color: red;
-  border: 1.5px dashed darkgray;
-  padding: 20px;
+  border: 1px dashed grey;
 }

@@ -1,9 +1,0 @@
-.grid_b {
-  display: grid;
-  grid-template-columns: 100px;
-}
-
-.grid_i {
-  background-color: red;
-  border: 1px dashed grey;
-}
